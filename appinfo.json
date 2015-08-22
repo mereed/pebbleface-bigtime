@@ -1,0 +1,711 @@
+{
+    "appKeys": {
+        "blink": 5,
+        "bluetoothvibe": 0,
+        "flip": 3,
+        "font": 4,
+        "hourlyvibe": 1,
+        "invert": 2
+    },
+    "capabilities": [
+        "configurable"
+    ],
+    "companyName": "chops",
+    "longName": " just BIG TIME n date",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/converted (22).png",
+                "name": "IMAGE_MASK",
+                "type": "png"
+            },
+            {
+                "file": "images/new-nobt-bw.png",
+                "name": "ICON_NOBLUETOOTH",
+                "type": "png"
+            },
+            {
+                "file": "images/newnov2_.png",
+                "name": "IMAGE_MONTH_NOV",
+                "type": "png"
+            },
+            {
+                "file": "images/new8SQ-30X148.png",
+                "name": "IMAGE_NUM_NSQ8",
+                "type": "png"
+            },
+            {
+                "file": "images/new7SQ-30X148.png",
+                "name": "IMAGE_NUM_NSQ7",
+                "type": "png"
+            },
+            {
+                "file": "images/new6SQ-30X148.png",
+                "name": "IMAGE_NUM_NSQ6",
+                "type": "png"
+            },
+            {
+                "file": "images/new5SQ-30X148.png",
+                "name": "IMAGE_NUM_NSQ5",
+                "type": "png"
+            },
+            {
+                "file": "images/new4SQ-30X148.png",
+                "name": "IMAGE_NUM_NSQ4",
+                "type": "png"
+            },
+            {
+                "file": "images/new0SQ-30X148.png",
+                "name": "IMAGE_NUM_NSQ0",
+                "type": "png"
+            },
+            {
+                "file": "images/new-menu.png",
+                "menuIcon": true,
+                "name": "IMAGE_MENU_ICON",
+                "type": "png"
+            },
+            {
+                "file": "images/new2sq-36.png",
+                "name": "IMAGE_NUM_SQ2",
+                "type": "png"
+            },
+            {
+                "file": "images/new2sq-36-180.png",
+                "name": "IMAGE_NUM_MSQ2",
+                "type": "png"
+            },
+            {
+                "file": "images/new9sq-36.png",
+                "name": "IMAGE_NUM_SQ9",
+                "type": "png"
+            },
+            {
+                "file": "images/new8sq-36.png",
+                "name": "IMAGE_NUM_SQ8",
+                "type": "png"
+            },
+            {
+                "file": "images/new7sq-36.png",
+                "name": "IMAGE_NUM_SQ7",
+                "type": "png"
+            },
+            {
+                "file": "images/new6sq-36.png",
+                "name": "IMAGE_NUM_SQ6",
+                "type": "png"
+            },
+            {
+                "file": "images/new5sq-36.png",
+                "name": "IMAGE_NUM_SQ5",
+                "type": "png"
+            },
+            {
+                "file": "images/new4sq-36.png",
+                "name": "IMAGE_NUM_SQ4",
+                "type": "png"
+            },
+            {
+                "file": "images/new3sq-36.png",
+                "name": "IMAGE_NUM_SQ3",
+                "type": "png"
+            },
+            {
+                "file": "images/new1sq-36.png",
+                "name": "IMAGE_NUM_SQ1",
+                "type": "png"
+            },
+            {
+                "file": "images/new0sq-36.png",
+                "name": "IMAGE_NUM_SQ0",
+                "type": "png"
+            },
+            {
+                "file": "images/new9sq-36-180.png",
+                "name": "IMAGE_NUM_MSQ9",
+                "type": "png"
+            },
+            {
+                "file": "images/new8sq-36-180.png",
+                "name": "IMAGE_NUM_MSQ8",
+                "type": "png"
+            },
+            {
+                "file": "images/new7sq-36-180.png",
+                "name": "IMAGE_NUM_MSQ7",
+                "type": "png"
+            },
+            {
+                "file": "images/new6sq-36-180.png",
+                "name": "IMAGE_NUM_MSQ6",
+                "type": "png"
+            },
+            {
+                "file": "images/new5sq-36-180.png",
+                "name": "IMAGE_NUM_MSQ5",
+                "type": "png"
+            },
+            {
+                "file": "images/new3sq-36-180.png",
+                "name": "IMAGE_NUM_MSQ3",
+                "type": "png"
+            },
+            {
+                "file": "images/new0sq-36180.png",
+                "name": "IMAGE_NUM_MSQ0",
+                "type": "png"
+            },
+            {
+                "file": "images/ne4sq-36-180.png",
+                "name": "IMAGE_NUM_MSQ4",
+                "type": "png"
+            },
+            {
+                "file": "images/new1q-36-180.png",
+                "name": "IMAGE_NUM_MSQ1",
+                "type": "png"
+            },
+            {
+                "file": "images/new3SQ-30X148.png",
+                "name": "IMAGE_NUM_NSQ3",
+                "type": "png"
+            },
+            {
+                "file": "images/new2SQ-30X148.png",
+                "name": "IMAGE_NUM_NSQ2",
+                "type": "png"
+            },
+            {
+                "file": "images/new1SQ-30X148.png",
+                "name": "IMAGE_NUM_NSQ1",
+                "type": "png"
+            },
+            {
+                "file": "images/new9SQ-30X148.png",
+                "name": "IMAGE_NUM_NSQ9",
+                "type": "png"
+            },
+            {
+                "file": "images/newdate-0-r.png",
+                "name": "IMAGE_RDATENUM_0",
+                "type": "png"
+            },
+            {
+                "file": "images/digds8.png",
+                "name": "IMAGE_NUM_8",
+                "type": "png"
+            },
+            {
+                "file": "images/new-jun-l.png",
+                "name": "IMAGE_LMONTH_JUN",
+                "type": "png"
+            },
+            {
+                "file": "images/digds-min3.png",
+                "name": "IMAGE_NUM_M3",
+                "type": "png"
+            },
+            {
+                "file": "images/digds5.png",
+                "name": "IMAGE_NUM_5",
+                "type": "png"
+            },
+            {
+                "file": "images/new-batt-chg.png",
+                "name": "IMAGE_BATT_CHARGING",
+                "type": "png"
+            },
+            {
+                "file": "images/DIGDS-DATENUM2.png",
+                "name": "IMAGE_DATENUM_2",
+                "type": "png"
+            },
+            {
+                "file": "images/DIGDS-DATENUM8.png",
+                "name": "IMAGE_DATENUM_8",
+                "type": "png"
+            },
+            {
+                "file": "images/new-may2.png",
+                "name": "IMAGE_MONTH_MAY",
+                "type": "png"
+            },
+            {
+                "file": "images/newdate-9-r.png",
+                "name": "IMAGE_RDATENUM_9",
+                "type": "png"
+            },
+            {
+                "file": "images/newdate-2l-r.png",
+                "name": "IMAGE_RDATENUM_2",
+                "type": "png"
+            },
+            {
+                "file": "images/digds3.png",
+                "name": "IMAGE_NUM_3",
+                "type": "png"
+            },
+            {
+                "file": "images/newdate-7-l.png",
+                "name": "IMAGE_LDATENUM_7",
+                "type": "png"
+            },
+            {
+                "file": "images/new-feb-r.png",
+                "name": "IMAGE_RMONTH_FEB",
+                "type": "png"
+            },
+            {
+                "file": "images/digds-min8.png",
+                "name": "IMAGE_NUM_M8",
+                "type": "png"
+            },
+            {
+                "file": "images/new-may-r.png",
+                "name": "IMAGE_RMONTH_MAY",
+                "type": "png"
+            },
+            {
+                "file": "images/newdate-4-l.png",
+                "name": "IMAGE_LDATENUM_4",
+                "type": "png"
+            },
+            {
+                "file": "images/digds-min5.png",
+                "name": "IMAGE_NUM_M5",
+                "type": "png"
+            },
+            {
+                "file": "images/new-sept2.png",
+                "name": "IMAGE_MONTH_SEP",
+                "type": "png"
+            },
+            {
+                "file": "images/new-batt-00.png",
+                "name": "IMAGE_BATT_000_005",
+                "type": "png"
+            },
+            {
+                "file": "images/newdate-1-r.png",
+                "name": "IMAGE_RDATENUM_1",
+                "type": "png"
+            },
+            {
+                "file": "images/newdate-6-r.png",
+                "name": "IMAGE_RDATENUM_6",
+                "type": "png"
+            },
+            {
+                "file": "images/new-sept-l.png",
+                "name": "IMAGE_LMONTH_SEP",
+                "type": "png"
+            },
+            {
+                "file": "images/digds-min0.png",
+                "name": "IMAGE_NUM_M0",
+                "type": "png"
+            },
+            {
+                "file": "images/digds-sec6.png",
+                "name": "IMAGE_NUM_S6",
+                "type": "png"
+            },
+            {
+                "file": "images/digds-sec7.png",
+                "name": "IMAGE_NUM_S7",
+                "type": "png"
+            },
+            {
+                "file": "images/newdate-7-r.png",
+                "name": "IMAGE_RDATENUM_7",
+                "type": "png"
+            },
+            {
+                "file": "images/new-aug2.png",
+                "name": "IMAGE_MONTH_AUG",
+                "type": "png"
+            },
+            {
+                "file": "images/digds-sec2.png",
+                "name": "IMAGE_NUM_S2",
+                "type": "png"
+            },
+            {
+                "file": "images/new-batt3-040.png",
+                "name": "IMAGE_BATT_020_040",
+                "type": "png"
+            },
+            {
+                "file": "images/digds-sec8.png",
+                "name": "IMAGE_NUM_S8",
+                "type": "png"
+            },
+            {
+                "file": "images/DIGDS-DATENUM0.png",
+                "name": "IMAGE_DATENUM_0",
+                "type": "png"
+            },
+            {
+                "file": "images/digds1.png",
+                "name": "IMAGE_NUM_1",
+                "type": "png"
+            },
+            {
+                "file": "images/digds-sec9.png",
+                "name": "IMAGE_NUM_S9",
+                "type": "png"
+            },
+            {
+                "file": "images/new-mar2.png",
+                "name": "IMAGE_MONTH_MAR",
+                "type": "png"
+            },
+            {
+                "file": "images/new-batt3-020.png",
+                "name": "IMAGE_BATT_005_020",
+                "type": "png"
+            },
+            {
+                "file": "images/digds-min1.png",
+                "name": "IMAGE_NUM_M1",
+                "type": "png"
+            },
+            {
+                "file": "images/DIGDS-DATENUM4.png",
+                "name": "IMAGE_DATENUM_4",
+                "type": "png"
+            },
+            {
+                "file": "images/newdate-6-l.png",
+                "name": "IMAGE_LDATENUM_6",
+                "type": "png"
+            },
+            {
+                "file": "images/newdate-4-r.png",
+                "name": "IMAGE_RDATENUM_4",
+                "type": "png"
+            },
+            {
+                "file": "images/digds-min2.png",
+                "name": "IMAGE_NUM_M2",
+                "type": "png"
+            },
+            {
+                "file": "images/digds-min9.png",
+                "name": "IMAGE_NUM_M9",
+                "type": "png"
+            },
+            {
+                "file": "images/DIGDS-DATENUM6.png",
+                "name": "IMAGE_DATENUM_6",
+                "type": "png"
+            },
+            {
+                "file": "images/new-aug-r.png",
+                "name": "IMAGE_RMONTH_AUG",
+                "type": "png"
+            },
+            {
+                "file": "images/newdate-3-r.png",
+                "name": "IMAGE_RDATENUM_3",
+                "type": "png"
+            },
+            {
+                "file": "images/digds-sec4.png",
+                "name": "IMAGE_NUM_S4",
+                "type": "png"
+            },
+            {
+                "file": "images/newdate-8-r.png",
+                "name": "IMAGE_RDATENUM_8",
+                "type": "png"
+            },
+            {
+                "file": "images/digds7.png",
+                "name": "IMAGE_NUM_7",
+                "type": "png"
+            },
+            {
+                "file": "images/new-oct2.png",
+                "name": "IMAGE_MONTH_OCT",
+                "type": "png"
+            },
+            {
+                "file": "images/new-batt-100.png",
+                "name": "IMAGE_BATT_080_100",
+                "type": "png"
+            },
+            {
+                "file": "images/DIGDS-DATENUM1.png",
+                "name": "IMAGE_DATENUM_1",
+                "type": "png"
+            },
+            {
+                "file": "images/new-apr2.png",
+                "name": "IMAGE_MONTH_APR",
+                "type": "png"
+            },
+            {
+                "file": "images/newdate-0-l.png",
+                "name": "IMAGE_LDATENUM_0",
+                "type": "png"
+            },
+            {
+                "file": "images/digds-sec1.png",
+                "name": "IMAGE_NUM_S1",
+                "type": "png"
+            },
+            {
+                "file": "images/digds-sec5.png",
+                "name": "IMAGE_NUM_S5",
+                "type": "png"
+            },
+            {
+                "file": "images/newnov-l.png",
+                "name": "IMAGE_LMONTH_NOV",
+                "type": "png"
+            },
+            {
+                "file": "images/new-batt3-060.png",
+                "name": "IMAGE_BATT_040_060",
+                "type": "png"
+            },
+            {
+                "file": "images/digds9.png",
+                "name": "IMAGE_NUM_9",
+                "type": "png"
+            },
+            {
+                "file": "images/new-mar-r.png",
+                "name": "IMAGE_RMONTH_MAR",
+                "type": "png"
+            },
+            {
+                "file": "images/new-JAN-l.png",
+                "name": "IMAGE_LMONTH_JAN",
+                "type": "png"
+            },
+            {
+                "file": "images/new-may-l.png",
+                "name": "IMAGE_LMONTH_MAY",
+                "type": "png"
+            },
+            {
+                "file": "images/new-sept-r.png",
+                "name": "IMAGE_RMONTH_SEP",
+                "type": "png"
+            },
+            {
+                "file": "images/newdate-5-r.png",
+                "name": "IMAGE_RDATENUM_5",
+                "type": "png"
+            },
+            {
+                "file": "images/newdate-8-l.png",
+                "name": "IMAGE_LDATENUM_8",
+                "type": "png"
+            },
+            {
+                "file": "images/newdate-5-l.png",
+                "name": "IMAGE_LDATENUM_5",
+                "type": "png"
+            },
+            {
+                "file": "images/newdate-3-l.png",
+                "name": "IMAGE_LDATENUM_3",
+                "type": "png"
+            },
+            {
+                "file": "images/new-jun2.png",
+                "name": "IMAGE_MONTH_JUN",
+                "type": "png"
+            },
+            {
+                "file": "images/new-dec-l.png",
+                "name": "IMAGE_LMONTH_DEC",
+                "type": "png"
+            },
+            {
+                "file": "images/new-jul2.png",
+                "name": "IMAGE_MONTH_JUL",
+                "type": "png"
+            },
+            {
+                "file": "images/digds-sec0.png",
+                "name": "IMAGE_NUM_S0",
+                "type": "png"
+            },
+            {
+                "file": "images/digds-min4.png",
+                "name": "IMAGE_NUM_M4",
+                "type": "png"
+            },
+            {
+                "file": "images/new-jun-r.png",
+                "name": "IMAGE_RMONTH_JUN",
+                "type": "png"
+            },
+            {
+                "file": "images/new-oct-l.png",
+                "name": "IMAGE_LMONTH_OCT",
+                "type": "png"
+            },
+            {
+                "file": "images/digds6.png",
+                "name": "IMAGE_NUM_6",
+                "type": "png"
+            },
+            {
+                "file": "images/digds-sec3.png",
+                "name": "IMAGE_NUM_S3",
+                "type": "png"
+            },
+            {
+                "file": "images/new-dec2.png",
+                "name": "IMAGE_MONTH_DEC",
+                "type": "png"
+            },
+            {
+                "file": "images/new-aug-l.png",
+                "name": "IMAGE_LMONTH_AUG",
+                "type": "png"
+            },
+            {
+                "file": "images/new-batt3-080.png",
+                "name": "IMAGE_BATT_060_080",
+                "type": "png"
+            },
+            {
+                "file": "images/DIGDS-DATENUM5.png",
+                "name": "IMAGE_DATENUM_5",
+                "type": "png"
+            },
+            {
+                "file": "images/new-mar-l.png",
+                "name": "IMAGE_LMONTH_MAR",
+                "type": "png"
+            },
+            {
+                "file": "images/new-JAN-r.png",
+                "name": "IMAGE_RMONTH_JAN",
+                "type": "png"
+            },
+            {
+                "file": "images/new-jul-l.png",
+                "name": "IMAGE_LMONTH_JUL",
+                "type": "png"
+            },
+            {
+                "file": "images/new-dec-r.png",
+                "name": "IMAGE_RMONTH_DEC",
+                "type": "png"
+            },
+            {
+                "file": "images/newdate-2l.png",
+                "name": "IMAGE_LDATENUM_2",
+                "type": "png"
+            },
+            {
+                "file": "images/DIGDS-DATENUM3.png",
+                "name": "IMAGE_DATENUM_3",
+                "type": "png"
+            },
+            {
+                "file": "images/DIGDS-DATENUM7.png",
+                "name": "IMAGE_DATENUM_7",
+                "type": "png"
+            },
+            {
+                "file": "images/new-apr-r.png",
+                "name": "IMAGE_RMONTH_APR",
+                "type": "png"
+            },
+            {
+                "file": "images/newdate-1-l.png",
+                "name": "IMAGE_LDATENUM_1",
+                "type": "png"
+            },
+            {
+                "file": "images/digds-min7.png",
+                "name": "IMAGE_NUM_M7",
+                "type": "png"
+            },
+            {
+                "file": "images/new-oct-r.png",
+                "name": "IMAGE_RMONTH_OCT",
+                "type": "png"
+            },
+            {
+                "file": "images/newdate-9-l.png",
+                "name": "IMAGE_LDATENUM_9",
+                "type": "png"
+            },
+            {
+                "file": "images/DIGDS-DATENUM9.png",
+                "name": "IMAGE_DATENUM_9",
+                "type": "png"
+            },
+            {
+                "file": "images/digds-min6.png",
+                "name": "IMAGE_NUM_M6",
+                "type": "png"
+            },
+            {
+                "file": "images/new-apr-l.png",
+                "name": "IMAGE_LMONTH_APR",
+                "type": "png"
+            },
+            {
+                "file": "images/digds4.png",
+                "name": "IMAGE_NUM_4",
+                "type": "png"
+            },
+            {
+                "file": "images/new-feb-l.png",
+                "name": "IMAGE_LMONTH_FEB",
+                "type": "png"
+            },
+            {
+                "file": "images/new-JAN2.png",
+                "name": "IMAGE_MONTH_JAN",
+                "type": "png"
+            },
+            {
+                "file": "images/digds0.png",
+                "name": "IMAGE_NUM_0",
+                "type": "png"
+            },
+            {
+                "file": "images/digds2.png",
+                "name": "IMAGE_NUM_2",
+                "type": "png"
+            },
+            {
+                "file": "images/new-feb2.png",
+                "name": "IMAGE_MONTH_FEB",
+                "type": "png"
+            },
+            {
+                "file": "images/newnov-r.png",
+                "name": "IMAGE_RMONTH_NOV",
+                "type": "png"
+            },
+            {
+                "file": "images/new-jul-r.png",
+                "name": "IMAGE_RMONTH_JUL",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "TIME n date",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "17c5144b-ae76-4acd-9e61-20c60e47309d",
+    "versionLabel": "0.1",
+    "watchapp": {
+        "watchface": true
+    }
+}
